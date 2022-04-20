@@ -1,17 +1,21 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="590" />
-    <option name="newTranslationDialogWidth" value="1135" />
+    <option name="newTranslationDialogWidth" value="1133" />
     <option name="newTranslationDialogX" value="614" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value=" master had recent pushes 4 minutes ago" />
+      <item value="&#10;&#10;                Compare &amp; pull request&#10;              " />
+      <item value="Choose two branches to see what’s changed or to start a new pull request. If you need to, you can also ." />
       <item value="    1. add -javaagent:/path/to/ja-netfilter.jar=jetbrains to your vmoptions (manual or auto)&#10;    2. log out of the jb account in the 'Licenses' window&#10;    3. use key on page https://jetbra.in/5d84466e31722979266057664941a71893322460&#10;    4. plugin 'mymap' has been deprecated since version 2022.1&#10;    5. don't care about the activation time, it is a fallback license and will not expire" />
       <item value="Fold matching root elements of the project modules in the Project View Enabledisable folding via Preferences or Project View options menu Optionally fold directories Hide empty groups Hide all groups Case-insensitive matching Live ProjectView preview" />
       <item value="The Foldable ProjectView is a plugin for the IntelliJ-based IDEs that lets you fold files located in the root of your project. Available features:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
