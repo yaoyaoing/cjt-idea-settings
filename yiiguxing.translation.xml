@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="590" />
-    <option name="newTranslationDialogWidth" value="1133" />
+    <option name="newTranslationDialogWidth" value="1131" />
     <option name="newTranslationDialogX" value="614" />
     <option name="newTranslationDialogY" value="507" />
     <histories>
+      <item value=" You’re already on the waitlist for GitHub Copilot! We’ll notify you when we’ve enabled it on your account. Make sure your primary email address is up-to-date so we can notify you." />
       <item value=" master had recent pushes 4 minutes ago" />
       <item value="&#10;&#10;                Compare &amp; pull request&#10;              " />
       <item value="Choose two branches to see what’s changed or to start a new pull request. If you need to, you can also ." />
@@ -14,7 +15,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
+        <entry key="CHINESE" value="7" />
         <entry key="ENGLISH" value="2" />
       </map>
     </option>
